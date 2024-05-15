@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b72459-d76c-4eea-8c55-1eeaced5d5cd" name="Changes" comment="Finished project" />
+    <list default="true" id="03b72459-d76c-4eea-8c55-1eeaced5d5cd" name="Changes" comment="read me fix">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,7 +162,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715790701642</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="read me fix">
+      <option name="closed" value="true" />
+      <created>1715791706321</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715791706321</updated>
+    </task>
+    <task id="LOCAL-00003" summary="read me fix">
+      <option name="closed" value="true" />
+      <created>1715791817074</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715791817074</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +200,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Finished project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished project" />
+    <MESSAGE value="read me fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="read me fix" />
   </component>
 </project>
