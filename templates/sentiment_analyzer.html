@@ -25,7 +25,6 @@
       <a class="me-3 py-2 text-decoration-none text-light" style="font-size: 20px" href="/sentiment_analyzer">Get started</a>
       <a class="me-3 py-2 text-light text-decoration-none" style="font-size: 20px" href="/home">Home</a>
       <a class="me-3 py-2 text-light text-decoration-none" style="font-size: 20px"  href="/visualize">Visualize</a>
-      <a class="py-2 text-light text-decoration-none" style="font-size: 20px" href="https://www.tweepy.org/">Help</a>
     </nav>
   <ul class="navbar-nav px-3">
     <li class="nav-item text-nowrap">
@@ -45,7 +44,6 @@
                 <input type="number" class="form-control" name="tweets"><br>
                 <input type="submit" class="btn btn-primary btn-block btn-lg" value="Search">
               </form> <br>
-              <p> Need help? <a href="/register"> Click here </a></p>
             </div>
           </div>
 
@@ -101,13 +99,9 @@
     <h1 style="color: white; text-align: center;font-size:50px">Detailed Report</h1>
     <div class="alert alert-primary" role="alert" style="height:400px">
         {% if polarity %}
-        <h2 class="report-text"> {{spositive}} "% people thought it was strongly positive"</h2>
         <h2 class="report-text"> {{positive}} "% people thought it was positive"</h2>
-        <h2 class="report-text"> {{wpositive}} "% people thought it was weakly positive"</h2>
         <h2 class="report-text"> {{neutral}} "% people thought it was neutral"</h2>
         <h2 class="report-text"> {{negative}} "% people thought it was negative"</h2>
-        <h2 class="report-text"> {{wnegative}} "% people thought it was weakly negative"</h2>
-        <h2 class="report-text"> {{snegative}} "% people thought it was strongly negative"</h2>
         {%endif%}
     </div>
 </div>
