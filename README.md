@@ -27,22 +27,22 @@ Due to Twitter API changes this app uses a library calls twikit to scrape data.
 
 ## Screenshots of use:
 
-![Login screen](/README images/Screenshot 2024-05-15 at 17.25.10.png)
+![Login screen](./README images/Screenshot 2024-05-15 at 17.25.10.png)
 
 Initial login screen with option to register user that works. Screenshot not included
 
-![Dashboard](/README images/Screenshot 2024-05-15 at 17.25.56.png)
+![Dashboard](./README images/Screenshot 2024-05-15 at 17.25.56.png)
 
 Dashboard after loging in
 
-![Analysis page](/README images/Screenshot 2024-05-15 at 17.26.21.png)
+![Analysis page](./README images/Screenshot 2024-05-15 at 17.26.21.png)
 
 Analysis page which takes keyword and number of tweets to analyse. (For now limited to 20 due to library restrictions)
 
-![Analysis results](/README images/Screenshot 2024-05-15 at 17.27.14.png)
+![Analysis results](./README images/Screenshot 2024-05-15 at 17.27.14.png)
 
 Numbers from analysis with option to see a visualisation
 
-![Data visualisation](/README images/Screenshot 2024-05-15 at 17.27.28.png)
+![Data visualisation](./README images/Screenshot 2024-05-15 at 17.27.28.png)
 
 Data visualisation pie chart
